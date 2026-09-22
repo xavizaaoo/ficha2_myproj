@@ -1,1 +1,11 @@
 Este é o exemplo de um ficheiro de texto file1
+
+
+
+
+
+
+
+
+
+Fiz uma alteração aqui
